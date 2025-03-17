@@ -53,83 +53,195 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,materialui,sass,css,html,materialui,bootstrap,c,vite" />
-  </a>
-</p>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
-</p>
+> Tools, languages, and other things that I like to work with.
+<table>
+  <!-- First Row -->
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/three-js-icon.svg" width="48" height="48" alt="Three.js" />
+      </a>
+      <br>Three.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="SASS" />
+      </a>
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-node-js.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-express-js.svg" width="48" height="48" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,blender,vscode,postman,linux,npm,powershell,discord" />
-  </a>
-</p>
+  <!-- Second Row -->
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-nextjs.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-vite.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-firebase.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-figma.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-css.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-c++.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-blender.svg" width="48" height="48" alt="Blender" />
+      </a>
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-material-ui.svg" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
 
-<br/>
-
-![](https://i.imgur.com/waxVImv.png)
-
-<h3 align="left">Trophy:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-Pal07&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-Pal07&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-![](https://i.imgur.com/waxVImv.png)
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Pal07\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman-Pal07&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<br><br>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-chakra-ui.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Chakra UI
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-git.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-html.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>HTML
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-npm.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-vs-code.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/icons8-prisma-orm.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Prisma ORM
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
 ![](https://i.imgur.com/waxVImv.png)
 
 <h3 align="left">Activity:</h3>
 
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Pal07&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Pal07&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Pal07&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="450" height="200" />
+</div>
 
-![](https://i.imgur.com/waxVImv.png)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
