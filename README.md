@@ -241,7 +241,7 @@ const aman = new Developer({
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> INTERACTIVE ELEMENTS
+
 
 <div align="center">
 
