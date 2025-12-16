@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -156,11 +155,6 @@ const aman = new Developer({
 </td>
 </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aman-Pal07&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Pal07&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -239,35 +233,12 @@ const aman = new Developer({
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
 <div align="center">
 
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-### 💭 Developer Wisdom
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> THE JOURNEY CONTINUES...
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+space!;Let's+build+something+amazing+together!;The+future+is+coded+by+us!;Stay+curious%2C+keep+coding!" alt="Closing Message" />
-
-<br>
-
-### 📊 Visitor Count
-<img src="https://profile-counter.glitch.me/Aman-Pal07/count.svg" alt="Visitor Count" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
 
